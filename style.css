@@ -1,0 +1,217 @@
+/* 🟣🟣🟣 TUTTO 🟣🟣🟣 */ 
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+/* 🟣🟣🟣 HOME 🟣🟣🟣 */
+ .bodyHome {
+  background-color: #E8E8E8;
+}
+ 
+.titoloIniziale {
+  margin-top: 50px;
+  text-align: left;
+  color: #ba9a67;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.colored-letter {
+  color: #ba9a67;
+}
+
+h1 {
+  color: #2c3367;
+  font-family: Arial, sans-serif;
+  font-size: 2em;
+  line-height: 1.2;
+}
+
+header  {
+  padding: 15px;
+  background-color: #939191;
+}
+
+.barraRicerca a {
+  color: #ba9a67 !important;
+  margin-top: 50px;
+  font-size: 22px;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.barraRicerca a:hover {
+  color: #e38c00 !important;
+  transform: scale(1.1); 
+}
+
+.description {
+  text-align: left;
+  font-size: 35px;
+
+}
+
+.description h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+img {
+  height: 900px;
+  width: 900px;
+  margin-top: 100px;
+}
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+/* 🟣🟣🟣 MEMBERS 🟣🟣🟣 */
+.membersContainer{
+  background-color: rgb(76, 76, 103);
+}
+
+.barraRicercaMembers a {
+  color: #ba9a67; 
+  text-decoration: none; 
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.barraRicercaMembers a:hover {
+  color: #e38c00;
+  transform: scale(1.1); 
+}
+
+.headerMembers{
+  padding-top: 10px;
+  background-color: rgb(76, 76, 103);
+}
+
+.members {
+  padding: 40px;
+    padding-bottom: 500px; /* Riduci il padding inferiore */
+    background-color: rgb(76, 76, 103);
+
+ 
+}
+
+.titoloMembri {
+  font-size: 45px;
+  font-weight: bold;
+  color: white;
+}
+
+.membri {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.membri img {
+  width: 130px;
+  height: auto;
+  margin-top: 60px;
+
+}
+
+.membri h3,
+.membri p {
+  margin: 0;
+}
+
+.membri-text {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 60px;
+  margin-left: 20px;
+}
+
+.membri h3 {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.membri p {
+  font-size: 20px;
+  color: white;
+}
+
+.mebmbersAffiliati {
+  margin-top: 210px;
+}
+
+a {
+  text-decoration: none; 
+  transition: color 0.5s ease-in-out, opacity 0.5s ease-in-out; 
+}
+
+a h3 {
+  color: white;
+  transition: color 0.5s ease-in-out, opacity 0.5s ease-in-out; 
+}
+
+a:hover h3 {
+  color: rgb(0, 8, 49); 
+  opacity: 0.5; 
+}
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+/* 🟣🟣🟣 RESEARCH  🟣🟣🟣 */
+.barraRicercaResearch a {
+  color: #ffffff; 
+  text-decoration: none; 
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.barraRicercaResearch a:hover {
+  color: #432900;
+  transform: scale(1.1); 
+}
+
+.headerRersearch{
+  padding-top: 10px;
+  background-color: #9f8336;
+}
+
+.researchContainer{
+  background-color: #9f8336;
+}
+
+
+ .boxResearch{
+  padding-bottom: 500px !important;
+  border: 1px solid white;
+} 
+
+.boxResearch h2{
+  margin-top: 40px;
+  font-weight: bold;
+}
+/* ------------------------------------------------------------------------------------------------------ */
+
+/* 🟣🟣🟣 PUBLICATIONS  🟣🟣🟣 */
+
+
+
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+/* 🟣🟣🟣 WORK IN PROGRESS  🟣🟣🟣 */
+
+
+
+/* ------------------------------------------------------------------------------------------------------ */
+
+/* 🟣🟣🟣 CONTACT US 🟣🟣🟣 */
+
+/* ------------------------------------------------------------------------------------------------------ */
